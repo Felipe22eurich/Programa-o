@@ -10,3 +10,7 @@ body{
 .cabecalho-imagem{
     width: 20%;
 }
+.cabecalho{
+    background-color: azure;
+    display: flex;
+}

@@ -32,29 +32,43 @@ body{
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
-    font-size: 24px;
+    font-size: 29px;
 }
 .cabecalho-lista-item{
      display: inline-block;
      margin: 0 16px;
 }
 .escola-imagem{
-    width: 75%;
+    width: 75px;
 }
 
 .escola{
     background-image: linear-gradient(#FFFFFF, #D5D5D5);
+    
 }
 .escola-conteudo{
     width: 45%;
-    display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px;
 }
 .escola-titulo{
     padding: 24px 0;
+    width: 24%;
+    text-align: center;
 }
 .estudante-imagem{
-    width: 100%;
+    width: 300px;
+}
+.estudante-icone{
+    width: 150px;
+}
+.estudantes{
+    text-align: center;
+}
+.escola-texto-dois{
+    padding: 24%;
+}
+.escola-texto-um{
+    padding: 24%;
 }

@@ -63,12 +63,10 @@ body{
 .estudante-icone{
     width: 150px;
 }
-.estudantes{
+.estudantes-div{
+    text-align: center
+}
+.estudantes-titulo{
     text-align: center;
-}
-.escola-texto-dois{
-    padding: 24%;
-}
-.escola-texto-um{
-    padding: 24%;
+    padding: 50px 0;
 }
